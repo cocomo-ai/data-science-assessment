@@ -12,7 +12,7 @@ Please answer the following questions to the best of your ability:
 3. Are there differences in channel efficiency across geos? Would you change your model to incorporate geo-level differences?
 4. Are there any other observations or recommendations you would make to the team?
 
-DATA DICTIONARY
+## DATA DICTIONARY
 ===============
 - GEO: geography
 - WEEK_START: starting day of the week
@@ -26,3 +26,7 @@ DATA DICTIONARY
 - FB_SPEND: weekly spend on Facebook
 - AFF_SPEND: weekly spend on affiliates
 - REVENUE: weekly revenue
+
+## Submission 
+
+Please email your submission with your attached resume to us at careers@cocomo.ai with "Cocomo Data Science Application" in the subject line. 
