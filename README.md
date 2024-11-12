@@ -14,15 +14,15 @@ Please answer the following questions to the best of your ability:
 
 DATA DICTIONARY
 ===============
-GEO: geography
-WEEK_START: starting day of the week
-YT_PAID_IMP: paid impressions from YouTube
-YT_ORG_IMP: organic (earned) impressions from YouTube
-GOOGLE_IMP: paid impressions from Google
-EMAIL_IMP: email opens
-FB_IMP: paid impressions from Facebook
-AFF_IMP: paid impressions
-GOOGLE_SPEND: weekly spend on Google
-FB_SPEND: weekly spend on Facebook
-AFF_SPEND: weekly spend on affiliates
-REVENUE: weekly revenue
+- GEO: geography
+- WEEK_START: starting day of the week
+- YT_PAID_IMP: paid impressions from YouTube
+- YT_ORG_IMP: organic (earned) impressions from YouTube
+- GOOGLE_IMP: paid impressions from Google
+- EMAIL_IMP: email opens
+- FB_IMP: paid impressions from Facebook
+- AFF_IMP: paid impressions
+- GOOGLE_SPEND: weekly spend on Google
+- FB_SPEND: weekly spend on Facebook
+- AFF_SPEND: weekly spend on affiliates
+- REVENUE: weekly revenue
