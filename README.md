@@ -30,3 +30,7 @@ Please answer the following questions to the best of your ability:
 ## Submission 
 
 Please email your submission with your attached resume to us at careers@cocomo.ai with "Cocomo Data Science Application" in the subject line. 
+
+## Deadline
+
+We expect to begin assessing submissions on November 12, 2024, but you are welcome to submit your solution even after this date. 
