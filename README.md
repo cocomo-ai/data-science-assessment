@@ -33,4 +33,4 @@ Please email your submission with your attached resume to us at careers@cocomo.a
 
 ## Deadline
 
-We expect to begin assessing submissions on November 12, 2024, but you are welcome to submit your solution even after this date. 
+We expect to begin assessing submissions on November 21, 2024, but you are welcome to submit your solution even after this date. 
