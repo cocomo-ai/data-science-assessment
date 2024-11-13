@@ -1,5 +1,4 @@
 # COCOMO DATA SCIENCE ASSESSMENT
-==========================================
 
 Thank you for spending the time on this take-home exam :)
 
@@ -13,7 +12,6 @@ Please answer the following questions to the best of your ability:
 4. Are there any other observations or recommendations you would make to the team?
 
 ## DATA DICTIONARY
-===============
 - GEO: geography
 - WEEK_START: starting day of the week
 - YT_PAID_IMP: paid impressions from YouTube
@@ -31,6 +29,6 @@ Please answer the following questions to the best of your ability:
 
 Please email your submission with your attached resume to us at careers@cocomo.ai with "Cocomo Data Science Application" in the subject line. 
 
-## Deadline
+## Next Steps
 
-We expect to begin assessing submissions on November 21, 2024, but you are welcome to submit your solution even after this date. 
+We expect to begin assessing submissions on November 21, 2024, but you are welcome to submit your solution even after this date. We will notify you if you are selected for the next and final step of our interview process, which is a call with our team. 
