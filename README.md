@@ -11,7 +11,7 @@ Please answer the following questions:
 3. Are there differences in channel efficiency across geos? Would you change your model to incorporate geo-level differences?
 4. Are there any other observations or recommendations you would make to the team?
 
-To answer the above questions, please determine the right modeling framework (whether an exploratory analysis with SQL/Python, linear model, non-linear model, etc). We are less concerned about the right answer, and more about creative thinking and problem solving.
+To answer the above questions, feel free to select any modeling framework (whether an exploratory analysis with SQL/Python, linear model, non-linear model, etc). We are less concerned about the right answer, and more about creative thinking and problem solving.
 
 ## DATA DICTIONARY
 - GEO: geography
