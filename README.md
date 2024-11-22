@@ -4,12 +4,14 @@ Thank you for spending the time on this take-home exam :)
 
 Attached is a data detailing weekly spend and impressions for various marketing channels broken down by various geographies (email, Facebook, Google and Affiliates) attached to weekly revenue.
 
-Please answer the following questions to the best of your ability:
+Please answer the following questions:
 
 1. Which marketing channels influence revenue the most? The least? How confident are you in these results?
 2. Is the business allocating spend across channels efficiently? If not, how would you reinvest or allocate your budget?
 3. Are there differences in channel efficiency across geos? Would you change your model to incorporate geo-level differences?
 4. Are there any other observations or recommendations you would make to the team?
+
+To answer the above questions, please determine the right modeling framework (whether an exploratory analysis with SQL/Python, linear model, non-linear model, etc). We are less concerned about the right answer, and more about creative thinking and problem solving.
 
 ## DATA DICTIONARY
 - GEO: geography
