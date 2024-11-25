@@ -33,4 +33,7 @@ Please email your submission with your attached resume to us at careers@cocomo.a
 
 ## Next Steps
 
+Batch 1: November 25
+Batch 2: December 2
+
 We expect to begin assessing submissions on November 25, 2024, but you are welcome to submit your solution even after this date. We will notify you if you are selected for the next and final step of our interview process, which is a call with our team. 
